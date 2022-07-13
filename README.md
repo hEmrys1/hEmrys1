@@ -34,9 +34,6 @@ Third-year student at Lobachevsky University (UNN) . Сurrently looking for a jo
 *   [Planner](https://gitlab.com/kainovk/dear-diary) - Simple planner/todo-list
 *   [Parking Reservation](https://gitlab.com/kainovk/parking-reservation) - Final project from the Tinkoff Fintech course. Deployed on Heroku
 
----
 
-<dl>
-  <dt>Also:</dt>
-    <dd>🥇 Finished <em>Java Backend Developer</em> course (Tinkoff, Fintech)</dd>
-</dl>
+### Also
+🥇 Finished <em>Java Backend Developer</em> course (Tinkoff, Fintech)
