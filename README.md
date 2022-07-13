@@ -3,11 +3,8 @@
 Third-year student at Lobachevsky University (UNN) . Сurrently looking for a job in a good team as a Java-developer
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=kainovk&show_icons=true&count_private=true">
- <img height=150 src="https://github-readme-stats.vercel.app/api?username=kainovk&show_icons=true&count_private=true&hide=issues,contribs"/></a>
- 
-<a href="https://github.com/kainovk/github-readme-stats">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainovk&layout=compact"/></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=kainovk&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=kainovk&show_icons=true&count_private=true&hide=issues,contribs"/></a>
+ <a href="https://github.com/kainovk/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainovk&layout=compact"/></a>
 </p>
 
 <p align='center'>
