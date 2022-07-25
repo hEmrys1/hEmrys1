@@ -28,6 +28,7 @@ Third-year student at Lobachevsky University (UNN) . Сurrently looking for a jo
 *   Microservices, OpenFeign
 *   Git, GitHub/GitLab
 
+
 ### My opensource projects
 
 *   [Bored Email Service](https://github.com/kainovk/bored-app) - Daily mailing of activities application; sends an email with 5 different activities every day
@@ -36,4 +37,5 @@ Third-year student at Lobachevsky University (UNN) . Сurrently looking for a jo
 
 
 ### Also
-🥇 Finished <em>Java Backend Developer</em> course (Tinkoff, Fintech)
+*   🥇 Finished <em>Java Backend Developer</em> course (Tinkoff, Fintech)
+*   🏆 [My LeetCode account](https://leetcode.com/kainovka/)
