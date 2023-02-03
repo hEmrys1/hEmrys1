@@ -1,6 +1,6 @@
 ### Hi there, I'm Kirill 👋
 
-Third-year student at Lobachevsky University (UNN) . Сurrently looking for a job in a good team as a Java-developer
+Third-year student at UNN. Enjoying programming :)
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=kainovk&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=kainovk&show_icons=true&count_private=true&hide=issues,contribs"/></a>
@@ -20,22 +20,16 @@ Third-year student at Lobachevsky University (UNN) . Сurrently looking for a jo
 
 
 ## 🛠 Technical Stack
-*   Java language
-*   MySQL, PostgreSQL, Flyway
-*   Spring Framework: Boot, Data Jpa, MVC, Security
+*   Java, Maven
+*   PostgreSQL, Liquibase, Flyway
+*   Spring Framework: Boot, Data, MVC, AOP, Security
+*   MyBatis, Hibernate
 *   JUnit 5, Mockito, AssertJ
-*   Swagger, JUL (SLF4J, Logback), StreamAPI
-*   Microservices, OpenFeign
+*   Swagger, JUL (SLF4J, Logback)
+*   RabbitMQ
+*   Docker, Docker Compose, Postman
 *   Git, GitHub/GitLab
 
 
-### My opensource projects
-
-*   [Bored Email Service](https://github.com/kainovk/bored-app) - Daily mailing of activities application; sends an email with 5 different activities every day
-*   [Planner](https://gitlab.com/kainovk/dear-diary) - Simple planner/todo-list
-*   [Parking Reservation](https://gitlab.com/kainovk/parking-reservation) - Final project from the Tinkoff Fintech course. Deployed on Heroku
-
-
 ### Also
-*   🥇 Finished <em>Java Backend Developer</em> course (Tinkoff, Fintech)
 *   🏆 [My LeetCode account](https://leetcode.com/kainovka/)
