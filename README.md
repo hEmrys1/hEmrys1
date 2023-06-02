@@ -20,16 +20,27 @@ Third-year student at UNN. Enjoying programming :)
 
 
 ## 🛠 Technical Stack
-*   Java, Maven
+*   Java
 *   PostgreSQL, Liquibase, Flyway
-*   Spring Framework: Boot, Data, MVC, AOP, Security
+*   Spring Framework: Core, Boot, Web, Data, Security, AOP
 *   MyBatis, Hibernate
-*   JUnit 5, Mockito, AssertJ
-*   Swagger, JUL (SLF4J, Logback)
 *   RabbitMQ
-*   Docker, Docker Compose, Postman
-*   Git, GitHub/GitLab
+*   JUnit 5, Mockito, AssertJ
+*   Swagger, Postman
+*   Docker
+*   Git, Gitflow
+*   Jira, Confluence
 
+### 🔧 Familiar with
+*  JavaScript, React
+*  Go
+
+### 🔎 Currently learning:
+*  System Design
+*  AWS: S3, Lambda
+*  Spring Cloud
+*  Go
+*  DevOps techniques (CI/CD piplines, k8s)
 
 ### Also
 *   🏆 [My LeetCode account](https://leetcode.com/kainovka/)
